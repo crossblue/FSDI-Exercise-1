@@ -1,0 +1,46 @@
+body{
+    background-color:darkgrey;
+}
+
+
+
+#singleout > b{
+    color:darkcyan;
+}
+
+#singleout > strong{
+    color:tomato
+}
+
+#pinpoint > b {
+    color:firebrick;
+}
+
+#pinpoint > i {
+    color:blueviolet;
+}
+
+#pinpoint > strong {
+    color:gold;
+}
+
+#bigtag{
+    font-family: sans-serif;
+    color:blue;
+}
+
+.colormod{
+    font-family: sans-serif;
+    color:green;
+}
+
+.pups{
+    font-family: sans-serif;
+    width:300px;
+    color:purple;
+}
+
+
+img{
+    border:3px solid orange;
+}
