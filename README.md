@@ -1,2 +1,3 @@
-# FSDI-Exercise-1
+# FSDI-Exercises
 Introduction to HTML
+Introduction to CSS
